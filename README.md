@@ -1,4 +1,4 @@
-# Lumoa Data Scientist Candidate Work Sample
+# Text Analytics for online banking
 **Francesco Paolo Gentile** 
 fra.fran.francesco@gmail.com
 
