@@ -4,7 +4,7 @@ fra.fran.francesco@gmail.com
 
 ## _Description_
 
-In this project, I provide text analytics for a dataset containing online banking reviews.
+In this project, I provide text analytics for a dataset containing public available online banking reviews. Specifically, I provide an LDA topic model of such reviews as well as a sentiment analysis using BERT.
 
 ## _Tech used_
 - Anaconda
